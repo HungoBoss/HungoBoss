@@ -12,7 +12,7 @@
 ### 👨‍💻 About me
 I am a software engineer from the Czech Republic.
 
-- :telescope: Working as a Software Engineer.
+- :telescope: Working as a Software Engineer (@Thermo Fisher Scientific).
 
 - :seedling: Interested in DevSecOps and Cybersecurity in general.
 
