@@ -12,13 +12,15 @@
 ### 👨‍💻 About me
 I am a software engineer from the Czech Republic.
 
-- :telescope: Working as a Software Engineer (@Thermo Fisher Scientific).
+- :telescope: Working as a Cybersecurity Engineer (@PwC Czech Republic).
 
 - :seedling: Interested in DevSecOps and Cybersecurity in general.
 
 - :zap: In my free time I am:
   - teaching programming to women (@Czechitas)
-  - blogging about games (@DSOAlmanach, @VelveteenDuck)
+  - doing DevRel (@BoxyHQ)
+  - publishing articles on Hashnode (@hungoboss)
+  - blogging about games (@VelveteenDuck)
   - helping to build cybersecurity communities (@Biohacking Village).
  
 ---
