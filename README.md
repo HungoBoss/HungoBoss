@@ -18,10 +18,7 @@ I am a software engineer from the Czech Republic.
 
 - :zap: In my free time I am:
   - teaching programming to women (@Czechitas)
-  - doing DevRel (@BoxyHQ)
   - publishing articles on Hashnode (@hungoboss)
-  - blogging about games (@VelveteenDuck)
-  - helping to build cybersecurity communities (@Biohacking Village).
  
 ---
 
